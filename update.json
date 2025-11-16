@@ -3,5 +3,5 @@
   "downloadUrl": "https://github.com/myza112/moonlauncher-updates/releases/download/version/MoonLauncher.zip",
   "isOnline": true,
   "maintenanceMessage": "",
-  "forceUpdate": true
+  "forceUpdate": false
 }
