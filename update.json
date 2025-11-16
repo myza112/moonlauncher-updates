@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/myza112/moonlauncher-updates/releases/download/v1.0.1/MoonLauncher.zip",
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/VOTRE_NOM_UTILISATEUR/moonlauncher-updates/releases/download/v1.0.0/MoonLauncher.zip",
   "isOnline": true,
   "maintenanceMessage": "",
-  "forceUpdate": true
+  "forceUpdate": false
 }
